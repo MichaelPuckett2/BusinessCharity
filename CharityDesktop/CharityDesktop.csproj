@@ -7,4 +7,8 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Charity\Charity.csproj" />
+  </ItemGroup>
+
 </Project>
